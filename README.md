@@ -14,19 +14,12 @@ WebAssembly (😳), or a real working Wii Shop Channel to download all sorts of 
 
 Visit [this website](https://jerosgamer.me/res/sysver.txt) to check the latest version available.
 
-## Updater
-While you tinker with the source code, make sure to often visit the Settings page, which is
-in fact an update checker that syncs with my server for new updates and versions to download
-from the GitHub repository.
-
-The update method is completely manual, meaning you just have to download the source code
-and merge the new files into your previously/outdated downloaded folder.
-
 ## License
 Onliine Website - Wii System simulator<br>
 Copyright (C) 2023 JerosGamer89<br>
 Legal queries at smartlinkwfs (at/@) gmail.com<br>
 Source: https://github.com/Ascript89/onliine<br>
+Modded by Timothy1498
 
 This website is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
